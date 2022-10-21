@@ -33,7 +33,7 @@ Tablet
 ![Tablet](/screeshots/tablet-screenshot.jpg)
 
 Mobil
-![Mobil](/screeshots/mobile-screenshot.jpg)
+![Mobil](/screeshots/moblie-screenshot.jpg)
 
 ## My process
 
