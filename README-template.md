@@ -30,10 +30,10 @@ Desktop
 ![Desktop](/screenshots/desktop-screenshot.jpg)
 
 Tablet
-![Tablet](/screeshots/tablet-screenshot.jpg)
+![Tablet](/screenshots/tablet-screenshot.jpg)
 
 Mobil
-![Mobil](/screeshots/moblie-screenshot.jpg)
+![Mobil](/screenshots/moblie-screenshot.jpg)
 
 ## My process
 
